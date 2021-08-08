@@ -19,51 +19,53 @@
 <body id="page-top">
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-light fixed-top backgroundNav" id="mainNav">
-    <div class="container"> <a class="navbar-brand js-scroll-trigger" href="/"><span class="textmenu">Mostra de Ensino e Práticas Pedagógicas de Ciências
-          e Biologia<br><b>ISSN - 2763-633X</b></span></a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="/">Apresentação</a>
-          </li>
-          <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="/expediente">Expediente</a>
-          </li>
-          <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="/normas">Normas
-              para publicação</a> </li>
-          <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="/anais-2020">Edição
-              atual</a> </li>
-          <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="/anais">Edições
-              anteriores</a> </li>
-          <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="/certificados">Certificados</a>
-          </li>
-        </ul>
+    <div class="row">
+      <div class="col-md-6">
+        <a class="navbar-brand js-scroll-trigger" href="/">
+          <span class="textmenu">Mostra de Ensino e Práticas Pedagógicas de Ciências
+            e Biologia<br><b>ISSN - 2763-633X</b>
+          </span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+      <div class="col-md-6">
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item nav-item-principal">
+              <a class="nav-link js-scroll-trigger" href="/">Apresentação</a>
+            </li>
+            <li class="nav-item nav-item-principal">
+              <a class="nav-link js-scroll-trigger" href="/expediente">Expediente</a>
+            </li>
+            <li class="nav-item nav-item-principal">
+              <a class="nav-link js-scroll-trigger" href="/normas">Normas para publicação</a>
+            </li>
+            <li class="nav-item nav-item-principal">
+              <a class="nav-link js-scroll-trigger" href="/anais-2020">Edição atual</a>
+            </li>
+            <li class="nav-item nav-item-principal">
+              <a class="nav-link js-scroll-trigger" href="/anais">Edições anteriores</a>
+            </li>
+            <li class="nav-item nav-item-principal"> 
+              <a class="nav-link js-scroll-trigger" href="/certificados">Certificados</a>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </nav>
   <header>
-    <!-- <div class="container paddingTopHeader"> -->
-    <div class="row">
-      <div class="col-md-6 col-vem-ai">
-        <p>VEM AÍ <b>IV MEBIO</b></p><br />
-        <button class="btn btn-success">
-          Acesse aqui a Primeira Circular do evento
-        </button>
+    <div class="row text-center">
+      <div class="col-md-6 col-sm-12 div-vem-ai" >
+        <h2>VEM AÍ <br /><b>IV MEBIO!</b></h2>
+        <br />
+        <button type="button" class="fill"><b>Acesse aqui a Primeira Circular do evento</b></button>
       </div>
-      <div class="col-md-6">
-
+      <div class="col-md-6 col-sm-12 mt-4">
+        <img src="img/1.png" class="img-fluid" alt="banner-chamada-mebio" width="500px" height="200px">
       </div>
-
     </div>
-    <!-- </dXiv> -->
-    <div class="text-center">
-      <p class="h3 realizacao">Realização</p>
-    </div>
-    <div class="row">
-      <div class="col-4"></div>
-      <div class="col-4 text-center"> <img alt="Logo Biologia" class="img-fluid" src="img/3.png"> </div>
-      <div class="col-4"></div>
-    </div>
-    <hr class="my-4">
   </header>
   <!--
 <header class="bg-primary text-white">  <div class="container text-center">    <h1>I Mostra de Ensino e Práticas Pedagógicas de Ciências e Biologia da UTFPR-DV</h1>    <p class="lead">19, 20 e 21 de novembro de 2018 na Universidade Tecnológica Federal do Paraná - Câmpus Dois Vizinhos</p>  </div></header>-->
@@ -71,7 +73,7 @@
     <section class="sections" id="sobre">
       <div class="container paddingSection">
         <div class="row">
-          <div class="col-lg-12 mx-auto text-center">
+          <div class="col-lg-12 mx-auto text-center mt-5">
             <h2>Apresentação</h2>
             <br>
             <p class="lead text-justify"> A Mostra de Ensino e Práticas
@@ -114,11 +116,21 @@
         </div>
       </div>
     </section>
+    <section class="sections" id="realizacao">
+      <div class="text-center mt-5">
+        <p class="h3 realizacao">Realização</p>
+      </div>
+      <div class="row">
+        <div class="col-4"></div>
+        <div class="col-4 text-center"> <img alt="Logo Biologia" class="img-fluid" src="img/3.png"> </div>
+        <div class="col-4"></div>
+      </div>
+    </section>
   </div>
   <!-- Footer -->
   <footer class="py-5 bg-dark footer">
     <div class="container">
-      <p class="m-0 text-center text-white">Copyright © MEBIO 2020</p>
+      <p class="m-0 text-center text-white">Copyright © MEBIO 2021</p>
     </div>
     <!-- /.container -->
   </footer>
