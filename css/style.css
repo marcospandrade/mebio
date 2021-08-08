@@ -1,0 +1,86 @@
+.paddingTitlePages {
+  padding-top: 40px;
+}
+
+.paddingTables {
+  padding-bottom: 20px;
+}
+
+.imgETitulo {
+  text-align: center;
+}
+
+.sections {
+  margin-top: -150px;
+}
+
+.textmenu {
+  color: #3a5512;
+  font-weight: bold;
+}
+
+.backgroundNav {
+  background-color: #bbc459;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+
+.paddingTitlePagePalestrantes {
+  padding-top: 100px;
+}
+
+.linkSumario {
+  color: #000000;
+}
+
+.linkSumario:hover {
+  text-decoration: none;
+  color: #000000;
+}
+
+.paddingSection {
+  margin-top: -60px;
+}
+
+@media screen and (max-width: 480px) {
+  .realizacao {
+    font-size: 120%;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 990px) {
+  .realizacao {
+    font-size: 150%;
+  }
+}
+
+@media screen and (min-width: 990px) and (max-width: 1333px) {
+  .paddingBottomSection {
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (min-width: 1333px) {
+  .paddingBottomSection {
+    margin-bottom: -180px;
+  }
+}
+
+.paddingTopHeader {
+  margin-top: -40px;
+}
+
+.nav-item-personal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
