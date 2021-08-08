@@ -47,7 +47,7 @@
             <li class="nav-item nav-item-principal">
               <a class="nav-link js-scroll-trigger" href="/anais">Edições anteriores</a>
             </li>
-            <li class="nav-item nav-item-principal"> 
+            <li class="nav-item nav-item-principal">
               <a class="nav-link js-scroll-trigger" href="/certificados">Certificados</a>
             </li>
           </ul>
@@ -57,10 +57,12 @@
   </nav>
   <header>
     <div class="row text-center">
-      <div class="col-md-6 col-sm-12 div-vem-ai" >
+      <div class="col-md-6 col-sm-12 div-vem-ai">
         <h2>VEM AÍ <br /><b>IV MEBIO!</b></h2>
         <br />
-        <button type="button" class="fill"><b>Acesse aqui a Primeira Circular do evento</b></button>
+        <a href="/docs/IVMebio/1CIRCULAR-IVMEBIO2021.pdf" download="newfilename" target="_blank">
+          <button type="button" class="fill"><b>Acesse aqui a Primeira Circular do evento</b></button>
+        </a>
       </div>
       <div class="col-md-6 col-sm-12 mt-4">
         <img src="img/1.png" class="img-fluid" alt="banner-chamada-mebio" width="500px" height="200px">
