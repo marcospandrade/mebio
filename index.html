@@ -60,7 +60,7 @@
       <div class="col-md-6 col-sm-12 div-vem-ai">
         <h2>VEM AÍ <br /><b>IV MEBIO!</b></h2>
         <br />
-        <a href="/docs/IVMebio/1CIRCULAR-IVMEBIO2021.pdf" download="newfilename" target="_blank">
+        <a href="/docs/IVMebio/1CIRCULAR-IVMEBIO2021.pdf" download="1ª Circular - IV MEBIO" target="_blank">
           <button type="button" class="fill"><b>Acesse aqui a Primeira Circular do evento</b></button>
         </a>
       </div>
