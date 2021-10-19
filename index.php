@@ -63,8 +63,18 @@
         <a href="/docs/IVMebio/1CIRCULAR-IVMEBIO2021.pdf" download="1ª Circular - IV MEBIO" target="_blank">
           <button type="button" class="fill"><b>Acesse aqui a Primeira Circular do evento</b></button>
         </a>
+        <br/>
+        <br/>
+        <a href="/docs/IVMebio/2CIRCULAR-IVMEBIO2021.pdf" download="2ª Circular - IV MEBIO" target="_blank">
+          <button type="button" class="fill"><b>Acesse aqui a Segunda Circular do evento</b></button>
+        </a>
+        <br />
+        <br />
+        <a href="/docs/IVMebio/3CIRCULAR-IVMEBIO2021.pdf" download="3ª Circular - IV MEBIO" target="_blank">
+          <button type="button" class="fill"><b>Acesse aqui a Terceira Circular do evento</b></button>
+        </a>
       </div>
-      <div class="col-md-6 col-sm-12 mt-4">
+      <div class="col-md-6 col-sm-12 mt-4 banner-chamada-mebio">
         <img src="img/1.png" class="img-fluid" alt="banner-chamada-mebio" width="500px" height="200px">
       </div>
     </div>
