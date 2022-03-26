@@ -1,3 +1,7 @@
+.container-page {
+  padding-top: 5rem;
+}
+
 .paddingTitlePages {
   padding-top: 40px;
 }
@@ -8,10 +12,6 @@
 
 .imgETitulo {
   text-align: center;
-}
-
-.sections {
-  margin-top: -150px;
 }
 
 .textmenu {
@@ -27,6 +27,7 @@ html,
 body {
   height: 100%;
   margin: 0;
+  padding: 0;
 }
 
 .wrapper {
@@ -79,6 +80,15 @@ body {
   margin-top: -40px;
 }
 
+#mainNav {
+  justify-content: space-between;
+}
+
+#mainNav .navbar-row {
+    width: 100%;
+
+}
+
 .nav-item-personal {
   display: flex;
   align-items: center;
@@ -92,6 +102,16 @@ body {
 .nav-item-principal {
   display: flex;
   align-items: center;
+  justify-content: center;
+  padding: 0 0.5rem;
+}
+
+.nav-item-principal a{
+  text-align:center
+}
+
+.btn-acessar-circular{
+  margin: 1.5rem 0;
 }
 
 .div-vem-ai {
