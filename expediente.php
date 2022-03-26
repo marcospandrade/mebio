@@ -15,36 +15,70 @@
     <link href="css/style.css" rel="stylesheet">
   </head>
   <body id="page-top"> <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top backgroundNav" id="mainNav">
-      <div class="container"> <a class="navbar-brand js-scroll-trigger" href="/"><span
-            class="textmenu">Mostra de Ensino e Práticas Pedagógicas de Ciências
-            e Biologia<br><b>ISSN - 2763-633X</b></span></a> <button class="navbar-toggler" type="button"
-          data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
-          aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
+    <nav
+      class="navbar navbar-expand-lg navbar-light fixed-top backgroundNav"
+      id="mainNav"
+    >
+      <div class="row navbar-row">
+        <div class="col-md-6">
+          <a class="navbar-brand js-scroll-trigger" href="/">
+            <span class="textmenu"
+              >Mostra de Ensino e Práticas Pedagógicas de Ciências e Biologia<br /><b
+                >ISSN - 2763-633X</b
+              >
+            </span>
+          </a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarResponsive"
+            aria-controls="navbarResponsive"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </div>
+        <div class="col-md-6">
+          <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
-              <li class="nav-item nav-item-personal "> <a class="nav-link js-scroll-trigger"
-                  href="/">Apresentação</a> </li>
-              <li class="nav-item nav-item-personal "> <a class="nav-link js-scroll-trigger"
-                  href="/expediente">Expediente</a> </li>
-              <li class="nav-item nav-item-personal "> <a class="nav-link js-scroll-trigger"
-                  href="/normas">Normas para publicação</a> </li>
-              <li class="nav-item nav-item-personal "> <a class="nav-link js-scroll-trigger"
-                  href="/anais-2020">Edição atual</a> </li>
-              <li class="nav-item nav-item-personal "> <a class="nav-link js-scroll-trigger"
-                  href="/anais">Edições anteriores</a> </li>
-              <li class="nav-item nav-item-personal "> <a class="nav-link js-scroll-trigger"
-                  href="/certificados">Certificados</a> </li>
+              <li class="nav-item nav-item-principal">
+                <a class="nav-link js-scroll-trigger" href="/">Apresentação</a>
+              </li>
+              <li class="nav-item nav-item-principal">
+                <a class="nav-link js-scroll-trigger" href="/expediente"
+                  >Expediente</a
+                >
+              </li>
+              <li class="nav-item nav-item-principal">
+                <a class="nav-link js-scroll-trigger" href="/normas"
+                  >Normas para publicação</a
+                >
+              </li>
+              <li class="nav-item nav-item-principal">
+                <a class="nav-link js-scroll-trigger" href="/anais-2020"
+                  >Edição atual</a
+                >
+              </li>
+              <li class="nav-item nav-item-principal">
+                <a class="nav-link js-scroll-trigger" href="/anais"
+                  >Edições anteriores</a
+                >
+              </li>
+              <li class="nav-item nav-item-principal">
+                <a class="nav-link js-scroll-trigger" href="/certificados"
+                  >Certificados</a
+                >
+              </li>
             </ul>
-          </ul>
+          </div>
         </div>
       </div>
     </nav>
     <div class="wrapper">
       <section id="organizacao">
-        <div class="container">
+        <div class="container container-page">
           <h1>Expediente</h1>
           <hr class="my-4">
           <div id="comissaoCientifica" class="spaces">
