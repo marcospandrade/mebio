@@ -19,7 +19,7 @@
   </head>
   <body id="page-top">
     <!-- Navigation -->
-    <nav
+     <nav
       class="navbar navbar-expand-lg navbar-light fixed-top backgroundNav"
       id="mainNav"
     >
@@ -44,7 +44,7 @@
             <span class="navbar-toggler-icon"></span>
           </button>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 d-flex">
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item nav-item-principal">
@@ -60,11 +60,11 @@
                   >Normas para publicação</a
                 >
               </li>
-              <li class="nav-item nav-item-principal">
+              <!-- <li class="nav-item nav-item-principal">
                 <a class="nav-link js-scroll-trigger" href="/anais-2020"
                   >Edição atual</a
                 >
-              </li>
+              </li> -->
               <li class="nav-item nav-item-principal">
                 <a class="nav-link js-scroll-trigger" href="/anais"
                   >Edições anteriores</a

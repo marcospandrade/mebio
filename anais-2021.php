@@ -90,19 +90,19 @@
     <div class="wrapper">
       <section id="anais">
         <div class="container container-page">
-          <h1>Anais 2019</h1>
+          <h1>Anais 2021</h1>
           <p class="lead text-justify" style="display: flex">
             <span class="font-weight-bold">
               <a
                 style="display: flex; color: #000; cursor: pointer"
-                href="/docs/anais/Anais_Mebio_2019.pdf"
+                href="/docs/anais/Anais_Mebio_2021.pdf"
                 target="_blank"
               >
                 Clique aqui
               </a></span
             ><a
               style="display: flex; color: #000; cursor: pointer"
-              href="/docs/anais/Anais_Mebio_2019.pdf"
+              href="/docs/anais/Anais_Mebio_2021.pdf"
               target="_blank"
             >
               <i
@@ -119,184 +119,140 @@
           </p>
           <hr class="my-4" />
           <div id="comissaoCientifica" class="spaces">
-            <h2 class="text-center">Artigos</h2>
+            <h2 class="text-center">Resumos expandidos</h2>
             <div
               style="background: transparent !important"
               class="jumbotron imgETitulo"
             >
               <p style="color: #000"></p>
               <h3>
-                Classificação Dos Seres Vivos: Concepções Iniciais E
-                Dificuldades Encontradas Por Alunos Do Ensino Fundamental
+                A contação de histórias como estratégia metodológica no ensino
+                de ciências
               </h3>
               <p></p>
-              <p class="lead">Lucas Trentin Larentis</p>
-              <p class="lead">Julia Dias da Silva</p>
-              <p class="lead">Diesse Aparecida de Oliveira Sereia</p>
-              <hr class="my-4" />
-              <p style="color: #000"></p>
-              <h3>Gravidez Na Adolescência E O Papel Do Educador</h3>
-              <p></p>
-              <p class="lead">Jaine Sguissardi</p>
-              <p class="lead">Andressa Fabris da Luz</p>
-              <p class="lead">Roslei Mezzalira</p>
-              <p class="lead">Diesse Aparecida de Oliveira Sereia</p>
-            </div>
-          </div>
-          <hr class="my-4" />
-          <div id="comissaoCientifica" class="spaces">
-            <h2 class="text-center">Relatos de Experiência</h2>
-            <div
-              style="background: transparent !important"
-              class="jumbotron imgETitulo"
-            >
-              <p style="color: #000"></p>
-              <h3>
-                A Avaliação Da Aprendizagem A Partir Da Disciplina De Didática
-                Geral Para Licenciatura: Um Relato
-              </h3>
-              <p></p>
-              <p class="lead">Lucas Trentin Larentis</p>
-              <p class="lead">Rosangela Maria Boeno</p>
-              <hr class="my-4" />
-              <p style="color: #000"></p>
-              <h3>A Expectativa Do Jovem Após O Ensino Médio</h3>
-              <p></p>
-              <p class="lead">Jean Felipe Bortot da Rosa</p>
-              <p class="lead">Rosangela Maria Boeno</p>
-              <p class="lead">Clediane Correa Topanotti</p>
-              <hr class="my-4" />
-              <p style="color: #000"></p>
-              <h3>
-                Abrindo Os Olhos Para O Mundo Da Surdez: Sequência Didática
-                Voltada Para O Ensino De Alunos Surdos E Ouvintes
-              </h3>
-              <p></p>
-              <p class="lead">Leonardo Iury Varela</p>
-              <p class="lead">Quéren Cavalcante Varela</p>
-              <p class="lead">Rosangela Maria Boeno</p>
-              <hr class="my-4" />
-              <p style="color: #000"></p>
-              <h3>
-                Atlas Ilustrado Como Recurso Didático Para O Ensino De Biologia
-              </h3>
-              <p></p>
-              <p class="lead">Leonardo Iury Varela</p>
-              <p class="lead">Quéren Cavalcante Varela</p>
+              <p class="lead">Vanessa Patrícia dos Santos</p>
               <p class="lead">Mara Luciane Kovalski</p>
+
               <hr class="my-4" />
+
               <p style="color: #000"></p>
               <h3>
-                Estágio Supervisionado De Ciências: Conhecendo Os Microrganismos
-                Por Meio De Diferentes Modalidades
+                A utilização de pão caseiro como forma de aprendizado sobre o
+                reino fungi
               </h3>
               <p></p>
-              <p class="lead">Jaqueline de Moraes</p>
-              <p class="lead">Anelize Queiroz Amaral</p>
-              <p class="lead">Patrícia Franchi de Freitas</p>
+              <p class="lead">Gabriela Gomes Weischeimer</p>
+              <p class="lead">Jessica Victória Oliveira dos Santos</p>
+              <p class="lead">Diesse Aparecida de Oliveira Sereia</p>
+
               <hr class="my-4" />
+
               <p style="color: #000"></p>
-              <h3>Estágio Supervisionado Em Biologia I</h3>
+              <h3>
+                Desmistificando as plantas: Vídeo informativo como ferramenta
+                para o ensino da botânica
+              </h3>
               <p></p>
-              <p class="lead">Danieli Borsatto</p>
-              <p class="lead">Edina Fernanda Baranoschi</p>
+              <p class="lead">Schelder Gabriel Bertoncello Rosa</p>
+              <p class="lead">Ana Maria Cezarin</p>
+              <p class="lead">Daniela Macedo de Lima</p>
+              <p class="lead">Daniela Aparecida Estevan</p>
+              <p class="lead">Fernanda Ferrari</p>
+
+              <hr class="my-4" />
+
+              <p style="color: #000"></p>
+              <h3>
+                Etnobotânica de plantas medicinais: Escola como mediadora do
+                conhecimento popular e científico
+              </h3>
+              <p></p>
+              <p class="lead">Vilmar Acorde de Souza</p>
+              <p class="lead">Elizabete Artus Berte</p>
+              <p class="lead">Erivelto Folhato Tolfo</p>
+              <p class="lead">Roberta Aparecida Folhiato</p>
+              <p class="lead">Fabiana Di Domenico</p>
+              <p class="lead">Silvana Oldoni Toscan</p>
               <p class="lead">Mara Luciane Kovalski</p>
-              <p class="lead">Paulo Fernando Diel</p>
-              <p class="lead">Ademar de Camargo Vargas</p>
+
               <hr class="my-4" />
+
               <p style="color: #000"></p>
               <h3>
-                Estágio Supervisionado Em Ciências I: A Educação Ambiental
-                Desenvolvida Por Meio Da Temática Dos Resíduos
+                O desmatamento e as abelhas: Uma cartilha didática como meio de
+                informação
               </h3>
               <p></p>
-              <p class="lead">Sandrieli Gonçalves</p>
-              <p class="lead">Vinicius Luiz Machado</p>
-              <p class="lead">Anelize Queiroz Amaral</p>
+              <p class="lead">Carmem Lúcia Henrich</p>
+              <p class="lead">José Marcos da Silva</p>
+              <p class="lead">Michele Potrich</p>
+              <p class="lead">Leandro Turmena</p>
+              <p class="lead">Daiara Manfio</p>
+
               <hr class="my-4" />
+
               <p style="color: #000"></p>
               <h3>
-                Estágio Supervisionado Em Ciências I: A Importância Da
-                Pluralidade Metodológica Na Docência
+                O ensino de gimnospermas no contexto cultural da festa junina
               </h3>
               <p></p>
               <p class="lead">Ana Maria Cezarin</p>
-              <p class="lead">Luiza Rafaela Brunetto</p>
-              <p class="lead">Daiara Manfio</p>
+              <p class="lead">Daniela Aparecida Estevan</p>
+              <p class="lead">Daniela Macedo de Lima</p>
+              <p class="lead">Fernanda Ferrari</p>
+
               <hr class="my-4" />
+
               <p style="color: #000"></p>
               <h3>
-                Estágio Supervisionado: Uma Experiência Da Formação De Docentes
+                Percepções sobre o PIBID: Contribuição e valorização do programa
+                no processo de formação de professores
               </h3>
               <p></p>
-              <p class="lead">Danieli Borsatto</p>
-              <p class="lead">Elana Casanova</p>
-              <p class="lead">Jheniffer Valmira Warmling</p>
-              <p class="lead">Anelize Queiroz Amaral</p>
-              <p class="lead">Silvana Oldoni Toscan</p>
+              <p class="lead">Guilherme Fatarelli Rodrigues da Silva</p>
+              <p class="lead">Waleska Godoy Gomes Azevedo</p>
+              <p class="lead">Lia Maris Orth Ritter Antiqueira</p>
+
               <hr class="my-4" />
+
               <p style="color: #000"></p>
               <h3>
-                Incrustação (Emblocagem): Uma Atividade Prática No Processo De
-                Ensino E Aprendizagem
+                Uma proposta didática de estudo sobre as plantas medicinais: Uma
+                alternativa no ensino de botânica
               </h3>
               <p></p>
-              <p class="lead">Vanessa Aparecida Ribeiro Alberti</p>
-              <p class="lead">Vilmar Acorde de Souza</p>
-              <p class="lead">Silvana Oldoni Toscan</p>
+              <p class="lead">Camila Luiza Comelli</p>
+              <p class="lead">Jean Felipe Bortot da Rosa</p>
+              <p class="lead">Douglas Fernando Zimmer</p>
               <p class="lead">Mara Luciane Kovalski</p>
+
               <hr class="my-4" />
-              <p style="color: #000"></p>
-              <h3>Tendência Liberal Renovada Não-Diretiva</h3>
-              <p></p>
-              <p class="lead">Sandrieli Gonçalves</p>
-              <p class="lead">Julia Dias da Silva</p>
-              <p class="lead">Rosangela Maria Boeno</p>
-              <hr class="my-4" />
+
               <p style="color: #000"></p>
               <h3>
-                Utilização De Jogo Didático No Processo De Ensino E Aprendizagem
-                Em Matemática Com Alunos Do Sexto E Nono Ano Do Ensino
-                Fundamental
+                Ensino inclusivo em ambiente virtual: Uma experiência docência
+                em biologia com o programa PIBID
               </h3>
               <p></p>
-              <p class="lead">Alcenir Ruiz Bonfim</p>
-              <p class="lead">Jocelaine de Freitas</p>
-              <p class="lead">Rosangela Maria Boeno</p>
-              <p class="lead">Mara Kovalski</p>
-              <p class="lead">Ademar de Camargo Vargas</p>
-            </div>
-          </div>
-          <hr class="my-4" />
-          <div id="comissaoCientifica" class="spaces">
-            <h2 class="text-center">Resumos Expandidos</h2>
-            <div
-              style="background: transparent !important"
-              class="jumbotron imgETitulo"
-            >
-              <p style="color: #000"></p>
-              <h3>
-                A Química No Ensino De Ciências Para O Ensino Fundamental II:
-                Refletindo Sobre O Estágio Supervisionado Na Formação Inicial
-              </h3>
-              <p></p>
-              <p class="lead">Fabiane Jacinto</p>
-              <p class="lead">Vanessa Aparecida Ribeiro Alberti</p>
-              <p class="lead">Rosinete Brizola</p>
-              <p class="lead">Anelize Queiroz Amaral</p>
-              <p class="lead">Raquel de Almeida Rocha Ponzoni</p>
+              <p class="lead">Gabriel Ribeiro Griten</p>
+              <p class="lead">Jéssica Alessandra Hungaro</p>
+              <p class="lead">Adriane Dall’Acqua de Oliveira</p>
+              <p class="lead">Danislei Bertoni</p>
+              <p class="lead">Lia Maris Orth Ritter Antiqueira</p>
+
               <hr class="my-4" />
+
               <p style="color: #000"></p>
               <h3>
-                Água E Saneamento Básico: Uma Percepção Dos Estudantes Do Ensino
-                Médio Da Rede Pública
+                Ensino de ciências e biologia no modo remoto: Análise de
+                desafios e aprendizados
               </h3>
               <p></p>
-              <p class="lead">Emiliana de Almeida Vergés</p>
-              <p class="lead">Fábio Antonelo</p>
-              <p class="lead">Roberta Foliato</p>
-              <p class="lead">Jonas Minuzzo</p>
-              <p class="lead">Adrieli Sgnorati</p>
+              <p class="lead">Mariana Ribeiro Inocêncio</p>
+              <p class="lead">Isabella Neves Passoni</p>
+              <p class="lead">Leticia Helena Vieira</p>
+              <p class="lead">Lia Maris Orth Ritter Antiqueira</p>
+
               <hr class="my-4" />
             </div>
           </div>

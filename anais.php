@@ -16,7 +16,7 @@
   </head>
   <body id="page-top">
     <!-- Navigation -->
-    <nav
+     <nav
       class="navbar navbar-expand-lg navbar-light fixed-top backgroundNav"
       id="mainNav"
     >
@@ -41,7 +41,7 @@
             <span class="navbar-toggler-icon"></span>
           </button>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 d-flex">
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item nav-item-principal">
@@ -57,11 +57,11 @@
                   >Normas para publicação</a
                 >
               </li>
-              <li class="nav-item nav-item-principal">
+              <!-- <li class="nav-item nav-item-principal">
                 <a class="nav-link js-scroll-trigger" href="/anais-2020"
                   >Edição atual</a
                 >
-              </li>
+              </li> -->
               <li class="nav-item nav-item-principal">
                 <a class="nav-link js-scroll-trigger" href="/anais"
                   >Edições anteriores</a
@@ -90,8 +90,8 @@
                     <h4 class="card-title">2021</h4>
                     <p class="card-text text-justify">Mostra de Ensino e
                       Práticas Pedagógicas de Ciências e Biologia</p>
-                    <a href="/anais-2019.html" class="btn btn-outline-info">Acessar</a>
-                    <a href="/docs/anais/Anais_Mebio_2019.pdf" target="_blank" class="btn btn-outline-success">Download</a>
+                    <a href="/anais-2021.html" class="btn btn-outline-info">Acessar</a>
+                    <a href="/docs/anais/Anais_Mebio_2021.pdf" target="_blank" class="btn btn-outline-success">Download</a>
                   </div>
                 </div>
               </div>
